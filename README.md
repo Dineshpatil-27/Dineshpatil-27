@@ -1,4 +1,4 @@
-![logo]( )
+![logo]( https://github.com/Dineshpatil-27/Dineshpatil-27/blob/main/Github%20banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Dinesh Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
